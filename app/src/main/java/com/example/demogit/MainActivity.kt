@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // sua o master lan 1
         // sua o demo lan1
+        // sua o demo lan 2
     }
 }
