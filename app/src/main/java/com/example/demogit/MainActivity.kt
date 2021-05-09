@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         // sua o master lan 1
         // sua o demo lan1
         // sua o master lan 2
+        // sua o demo lan 2
     }
 }
