@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // sua lan 1 o demo 2
+        // sua lan 2 o demo 2
     }
 }
