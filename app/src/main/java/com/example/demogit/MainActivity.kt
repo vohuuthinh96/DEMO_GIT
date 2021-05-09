@@ -10,4 +10,8 @@ class MainActivity : AppCompatActivity() {
         //reset
 
     }
+
+    fun fixbug() {
+        
+    }
 }
